@@ -42,7 +42,7 @@
 
 <h3 align="left">Skills:</h3>
 <p align="left">- Android Core, Kotlin, MVVM</p>
-<p align="left">- Avtivity & Fragment lifecycle</p>
+<p align="left">- Activity & Fragment lifecycle</p>
 <p align="left">- Navigation component, Safe Args </p>
 <p align="left">- Live data, Coroutines, Room database</p>
 <p align="left">- Material Design Components</p>
