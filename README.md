@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences: [https://jpdevzone.com/cv](https://jpdevzone.com/cv)
 
-- 📫 How to reach me: [panayotovj@gmail.com](panayotovj@gmail.com)
+- 📫 How to reach me: [panayotovj@gmail.com](mailto:panayotovj@gmail.com)
 
 - ⚡ Fun fact: **I like street workout / hunting / fishing / get lost in nature.**
 
