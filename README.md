@@ -1,5 +1,6 @@
 <h1 align="center">Hello, world! My name is Jivko Panayotov! 👋✌</h1>
 <h3 align="center">I'm a Jr Android Developer, UI & UX enthusiast 👨‍💻🎨</h3>
+<br>
 
 - 👨‍💻 You can find my apps here: [https://play.google.com/store/apps/developer?id=JP_DevZone](https://play.google.com/store/apps/developer?id=JP_DevZone)
 
@@ -15,6 +16,9 @@
 
 - ⚡ Fun fact: **I like street workout / hunting / fishing / get lost in nature.**
 
+<h3 align="left">Certificates:</h3>
+<a href="https://confirm.udacity.com/WGKCAPPS">Android Kotlin developer</a>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/panayotovjivko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panayotovjivko" height="30" width="40" /></a>
@@ -25,14 +29,25 @@
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/WF3Zbns/Layer-2.png" alt="retrofit" width="40" height="40"/> </a>
+  <a href="https://github.com/bumptech/glide" target="_blank" rel="noreferrer"> <img src="https://api.nuget.org/v3-flatcontainer/karamunting.androidx.bumptech.glide/4.9.0/icon" alt="glide" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>       
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/> </a>     
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Skills:</h3>
+<p align="left">- Android Core, Kotlin, MVVM</p>
+<p align="left">- Avtivity & Fragment lifecycle</p>
+<p align="left">- Navigation component, Safe Args </p>
+<p align="left">- Live data, Coroutines, Room database</p>
+<p align="left">- Material Design Components</p>
+<p align="left">- Jetpack components</p>
+<p align="left">- JUnit, Espresso, Koin</p>
 
 
 #### Topics:
