@@ -10,7 +10,7 @@
 
 - 📝 My website: [https://jpdevzone.com/](https://jpdevzone.com/)
 
-- 📄 Know about my experiences: [https://jpdevzone.com/cv](https://jpdevzone.com/wp-content/uploads/2022/03/Jivko-PANAYOTOV-CV-EN.pdf)
+- 📄 Know about my experiences: [My CV](https://jpdevzone.com/wp-content/uploads/2022/03/Jivko-PANAYOTOV-CV-EN.pdf)
 
 - 📫 How to reach me: [panayotovj@gmail.com](mailto:panayotovj@gmail.com)
 
