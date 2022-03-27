@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Jr Android Developer, UI & UX enthusiast 👨‍💻🎨</h3>
 <br>
 
-- 👨‍💻 You can find my apps here: [https://play.google.com/store/apps/developer?id=JP_DevZone](https://play.google.com/store/apps/developer?id=JP_DevZone)
+- 👨‍💻 You can find my apps here: [https://play.google.com/store/apps/dev?id=8127930939780062301](https://play.google.com/store/apps/dev?id=8127930939780062301)
 
 - 📌 2022 Goals: **improve my commits, launch new Android apps and get into iOS apps. 📱**
 
