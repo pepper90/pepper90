@@ -4,7 +4,7 @@
 
 - 👨‍💻 You can find my apps here: [https://play.google.com/store/apps/dev?id=8127930939780062301](https://play.google.com/store/apps/dev?id=8127930939780062301)
 
-- 📌 2022 Goals: **improve my commits, launch new Android apps and get into iOS apps. 📱**
+- 📌 2022 Goals: **improve my commits, learn JetpackCompose, launch new Android apps and get into iOS apps. 📱**
 
 - 🔭 I’m currently updating this app: [young-hunter](https://github.com/pepper90/young-hunter)
 
