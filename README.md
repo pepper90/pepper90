@@ -6,11 +6,11 @@
 
 - 📌 2022 Goals: **improve my commits, learn Jetpack Compose, launch new Android apps and get into iOS apps. 📱**
 
-- 🔭 I’m currently updating this app: [young-hunter](https://github.com/pepper90/young-hunter)
+- 🔭 I’m currently working on a new app: private repo, sorry ;)
 
 - 📝 My website: [https://jpdevzone.com/](https://jpdevzone.com/)
 
-- 📄 Know about my experiences: [My CV](https://jpdevzone.com/wp-content/uploads/2022/03/Jivko-PANAYOTOV-CV-EN.pdf)
+- 📄 Know about my experiences: [My CV](https://jpdevzone.com/wp-content/uploads/2022/07/Jivko-PANAYOTOV-CV-EN.pdf)
 
 - 📫 How to reach me: [panayotovj@gmail.com](mailto:panayotovj@gmail.com)
 
