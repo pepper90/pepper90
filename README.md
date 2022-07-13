@@ -47,7 +47,7 @@
 <p align="left">- Live data, Coroutines, Room database</p>
 <p align="left">- Material Design Components</p>
 <p align="left">- Jetpack components</p>
-<p align="left">- JUnit, Espresso, Koin</p>
+<p align="left">- JUnit, Espresso, Dagger Hilt</p>
 
 
 #### Topics:
