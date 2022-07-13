@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world! My name is Jivko Panayotov! 👋✌</h1>
-<h3 align="center">I'm a Jr Android Developer, UI & UX enthusiast 👨‍💻🎨</h3>
+<h3 align="center">I'm an Android Developer, UI & UX enthusiast 👨‍💻🎨</h3>
 <br>
 
 - 👨‍💻 You can find my apps here: [https://play.google.com/store/apps/dev?id=8127930939780062301](https://play.google.com/store/apps/dev?id=8127930939780062301)
